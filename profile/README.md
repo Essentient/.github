@@ -27,9 +27,9 @@ Based in Mumbai, India, we build enterprise-grade AI solutions for businesses lo
 
 ## 📫 Contact
 
-- **Website**: [Your website]
-- **Email**: [Your business email]
-- **LinkedIn**: [Your company LinkedIn]
+- **Website**: https://essentient.co
+- **Email**: contact@essentient.co
+- **LinkedIn**: https://www.linkedin.com/company/essentient/
 
 ---
 
